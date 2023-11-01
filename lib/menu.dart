@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class MyHomePage extends StatelessWidget {
-  const MyHomePage({Key? key}) : super(key: key);
+  MyHomePage({Key? key}) : super(key: key);
 
 
   // This widget is the home page of your application. It is stateful, meaning
@@ -27,8 +27,8 @@ class MyHomePage extends StatelessWidget {
           'Shopping List',
 
         ),
-        // backgroundColor: Colors.indigo, // added
-        // foregroundColor: Colors.white,// added
+        backgroundColor: Colors.indigo, // added
+        foregroundColor: Colors.white,// added
       ),
       body: SingleChildScrollView(
         // Widget wrapper yang dapat discroll
