@@ -22,3 +22,6 @@ https://build.appcenter.ms/v0.1/apps/560263d3-71b4-48d5-b2de-796c320b4bff/branch
 Markdown:
 [![Build status](https://build.appcenter.ms/v0.1/apps/560263d3-71b4-48d5-b2de-796c320b4bff/branches/main/badge)](https://appcenter.ms)
 
+
+Public Link:
+https://install.appcenter.ms/orgs/shopping-list-shanahan/apps/shopping-list/distribution_groups/public
