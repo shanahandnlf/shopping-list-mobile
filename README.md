@@ -14,3 +14,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Image URL:
+https://build.appcenter.ms/v0.1/apps/560263d3-71b4-48d5-b2de-796c320b4bff/branches/main/badge
+
+
+Markdown:
+[![Build status](https://build.appcenter.ms/v0.1/apps/560263d3-71b4-48d5-b2de-796c320b4bff/branches/main/badge)](https://appcenter.ms)
+
